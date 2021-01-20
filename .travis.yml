@@ -3,7 +3,9 @@
 branches:
   except:
     - gh-pages
-
+arch:
+    - amd64
+    - ppc64le
 language: python
 
 python:
